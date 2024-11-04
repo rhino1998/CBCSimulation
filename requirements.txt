@@ -47,3 +47,4 @@ bqplot
 numpy
 pandas
 vector
+pyarrow
